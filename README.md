@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Sergio Randriamihoatra and I'm a Systems & Low-Level Engineer. I'm from Madagascar, studying MISA at the University of Antananarivo. You can find me on [![GitHub][2.2]][2] or reach me via [Email](mailto:sergiorandriamihoatra@gmail.com).
+My name is Sergio Randriamihoatra and I'm doing Systems and Low-Level Engineering. I'm from Madagascar, studying MISA at the University of Antananarivo. You can find me on [![GitHub][2.2]][2] or reach me via [Email](mailto:sergiorandriamihoatra@gmail.com).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
