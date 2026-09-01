@@ -30,18 +30,18 @@ A few projects I'm currently focused on:
 ## 📈 GitHub Stats
 
 <a href="https://github.com/sergiorandria/sergiorandria">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiorandria&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sergiorandria&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/sergiorandria/sergiorandria">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiorandria&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sergio's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=sergiorandria&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sergio's GitHub Stats" />
 </a>
 
 <a href="https://github.com/sergiorandria/vHSM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiorandria&repo=vHSM&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=sergiorandria&repo=vHSM&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/sergiorandria/cpp-repl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiorandria&repo=cpp-repl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=sergiorandria&repo=cpp-repl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
