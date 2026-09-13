@@ -2,7 +2,13 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Sergio Randriamihoatra and I'm doing Systems and Low-Level Engineering. I'm from Madagascar, studying MISA at the University of Antananarivo. You can find me on [![GitHub][2.2]][2] or reach me via [Email](mailto:sergiorandriamihoatra@gmail.com).
+My name is Sergio Randriamihoatra. I am from Madagascar, studying MISA at the University of Antananarivo, and I spend most of my time doing systems and low level engineering.
+
+I love getting close to the machine, digging into assembly and playing around with clever compiler tricks. I am also passionate about cybersecurity, especially cryptography, and I enjoy getting lost in advanced mathematics like algebraic topology, algebraic K theory, geometric informatics and philosophy.
+
+Thanks for stopping by. Feel free to follow along for upcoming updates and fresh ideas. Who knows what I will break or build next 👾
+
+You can find me on [![GitHub][2.2]][2] or reach me via [Email](mailto:sergiorandriamihoatra@gmail.com).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -24,7 +30,7 @@ A few projects I'm currently focused on:
 
 - [vHSM](https://github.com/sergiorandria/vHSM) — Virtual Hardware Security Module: PKCS#11 + REST API for audited crypto ops on Hyperledger Fabric
 - [cpp-repl](https://github.com/sergiorandria/cpp-repl) — Interactive C++ REPL (LLVM ORC LLJIT) — no `main()` required, Python-like DX
-- [Numpy-C-API](https://github.com/sergiorandria/Numpy-C-API) — Pure C++ reimplementation of NumPy's API
+- [numpy-cpp](https://github.com/sergiorandria/numpy-cpp) — Pure C++ reimplementation of NumPy's API
 - [llm-cpp](https://github.com/sergiorandria/llm-cpp) — LLM from scratch in C++
 
 ## 📈 GitHub Stats
