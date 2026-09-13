@@ -2,13 +2,13 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Sergio Randriamihoatra. I am from Madagascar, studying MISA at the University of Antananarivo, and I spend most of my time doing systems and low level engineering.
+My name is Sergio Randriamihoatra. I am from Madagascar, studying MISA at the University of Antananarivo, and I spend most of my time doing systems research and low level engineering.
 
-I love getting close to the machine, digging into assembly and playing around with clever compiler tricks. I am also passionate about cybersecurity, especially cryptography, and I enjoy getting lost in advanced mathematics like algebraic topology, algebraic K theory, geometric informatics and philosophy.
+I love getting close to the machine, digging into assembly and playing around with clever compiler tricks. I am also passionate about cybersecurity, especially cryptography, and I enjoy getting lost in advanced mathematics like algebraic topology, algebraic K-theory, geometric informatics and philosophy.
 
 Thanks for stopping by. Feel free to follow along for upcoming updates and fresh ideas. Who knows what I will break or build next 👾
 
-You can find me on [![GitHub][2.2]][2] or reach me via [Email](mailto:sergiorandriamihoatra@gmail.com).
+You can reach me via [Email](mailto:sergiorandriamihoatra@gmail.com).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
